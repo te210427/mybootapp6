@@ -8,7 +8,7 @@
 		<version>3.2.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>jp.te4a.spring.boot.myapp6</groupId>
+	<groupId>jp.te4a.spring.boot.myapp7</groupId>
 	<artifactId>mybootapp7</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>mybootapp7</name>
